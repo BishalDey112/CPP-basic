@@ -12,7 +12,7 @@ int main(){
     cout<<name<<endl;
 
     //initialization
-    string n
+    string surname = "Dey";
 
     return 0;
 }
